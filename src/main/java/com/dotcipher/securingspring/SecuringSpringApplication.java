@@ -9,5 +9,4 @@ public class SecuringSpringApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SecuringSpringApplication.class, args);
 	}
-
 }
