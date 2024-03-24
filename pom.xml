@@ -11,8 +11,8 @@
 	<groupId>com.dotcipher</groupId>
 	<artifactId>securing-spring</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>securing-spring</name>
-	<description>securing-spring</description>
+	<name>easy-bank</name>
+	<description>easy-bank-backend</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
